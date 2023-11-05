@@ -2,7 +2,7 @@
 
 **Mi nombre es Luis Carrillo** y este es mi perfil en Github, el cual es un reposositorio especial debido a que se trata de `README.md` (este archivo) aparece en el perfil de GitHub.
 
-Here are some ideas to get you started:
+Un poco sobre mi perfil:
 
 - 🔭 Actualmente vivo en Chile ...
 - 🌱 Me encuentro trabajando como Jefe de Proyectos ...
